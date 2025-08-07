@@ -1,0 +1,6 @@
+ScoreEvent\ScoreEvent.class
+com\mycompany\footballscoreevent\ScoreEvent.class
+com\mycompany\footballscoreevent\ScoreListener.class
+com\mycompany\footballscoreevent\LiveScoreDisplay.class
+com\mycompany\footballscoreevent\FootballScoreEvent.class
+com\mycompany\footballscoreevent\ScoreSource.class
